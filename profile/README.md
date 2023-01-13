@@ -8,6 +8,12 @@ Feel free to reach out to us on the [Discord](https://discord.gg/jRrnwqMfkr)
 
 ## Our main projects:
 
+### COH3 [Data](https://github.com/cohstats/coh3-data)
+Units and other data from the game.
+See source code [repo](https://github.com/cohstats/coh3-data)
+
+## COH2
+
 ### COH2 [Stats](https://coh2stats.com/)
 Use at https://coh2stats.com/  
 See source code [repo](https://github.com/cohstats/coh2stats)
