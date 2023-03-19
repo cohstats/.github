@@ -8,8 +8,17 @@ Feel free to reach out to us on the [Discord](https://discord.gg/jRrnwqMfkr)
 
 ## Our main projects:
 
+### COH3 [Stats](https://github.com/cohstats/coh3-stats)
+Use at https://coh3stats.com/  
+See source code [repo](https://github.com/cohstats/coh3-stat)
+
+### COH3 [Image Extractor](https://github.com/cohstats/coh3-image-extractor)
+Extract all the images from the game.  
+See source code [repo](https://github.com/cohstats/coh3-image-extractor)
+
+
 ### COH3 [Data](https://github.com/cohstats/coh3-data)
-Units and other data from the game.
+Units and other data from the game.  
 See source code [repo](https://github.com/cohstats/coh3-data)
 
 ## COH2
