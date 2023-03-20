@@ -10,7 +10,7 @@ Feel free to reach out to us on the [Discord](https://discord.gg/jRrnwqMfkr)
 
 ### COH3 [Stats](https://github.com/cohstats/coh3-stats)
 Use at https://coh3stats.com/  
-See source code [repo](https://github.com/cohstats/coh3-stat)
+See source code [repo](https://github.com/cohstats/coh3-stats)
 
 ### COH3 [Image Extractor](https://github.com/cohstats/coh3-image-extractor)
 Extract all the images from the game.  
