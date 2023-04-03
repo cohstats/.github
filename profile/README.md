@@ -16,6 +16,9 @@ See source code [repo](https://github.com/cohstats/coh3-stats)
 Extract all the images from the game.  
 See source code [repo](https://github.com/cohstats/coh3-image-extractor)
 
+### COH3 [Desktop App](https://github.com/cohstats/coh3-stats-desktop-app)
+Download from https://coh3stats.com/desktop-app  
+See source code [repo](https://github.com/cohstats/coh3-stats-desktop-app)
 
 ### COH3 [Data](https://github.com/cohstats/coh3-data)
 Units and other data from the game.  
