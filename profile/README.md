@@ -41,5 +41,8 @@ See source code [repo](https://github.com/cohstats/coh2stats/tree/master/package
 ## Other projects
 - COH2 Discord bot https://github.com/Janne252/coh2-replay-discord-bot/
 - CELO Enhanced https://github.com/0xNeffarion/CELO-Enhanced
-
+- COH3 API projects:
+   - https://github.com/ryantaylor/relic_link 
+   - https://github.com/AndresGL01/cohpy
+  
 _Please reach out to us to add your project here_
