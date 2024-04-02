@@ -24,6 +24,9 @@ See source code [repo](https://github.com/cohstats/coh3-stats-desktop-app)
 Units and other data from the game.  
 See source code [repo](https://github.com/cohstats/coh3-data)
 
+### COH3 [Mod Tools, scripts and info](https://github.com/cohstats/coh3-mod-tools)
+Knowledge base for COH3 Essence editor.
+
 ## COH2
 
 ### COH2 [Stats](https://coh2stats.com/)
