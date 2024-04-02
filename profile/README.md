@@ -42,7 +42,7 @@ Downlaod at https://coh2stats.com/desktop-app
 See source code [repo](https://github.com/cohstats/coh2stats/tree/master/packages/app) 
 
 ## Other projects
-- COH Discord bot [https://github.com/Janne252/coh2-replay-discord-bot/](https://github.com/Janne252/coh-replay-analyzer-discord-bot)
+- COH Discord bot [https://github.com/Janne252/coh-replay-analyzer-discord-bot](https://github.com/Janne252/coh-replay-analyzer-discord-bot)
 - CELO Enhanced https://github.com/0xNeffarion/CELO-Enhanced
 - COH3 Replay Parsing https://github.com/ryantaylor/vault
 - COH3 API projects:
